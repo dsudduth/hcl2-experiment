@@ -1,6 +1,6 @@
 # HCL2 Experiment
 
-[HCL2](https://github.com/hashicorp/hcl2) is the second iteration of the HashiCorp Configuration Language. It is a powerful DSL that serves as an alternative to YAML, TOML, INI, JSON, etc. This experiment attempts to evaluate HCL2 as a possible config language for our Golang applications.
+[HCL2](https://github.com/hashicorp/hcl2) is the second iteration of the HashiCorp Configuration Language. It is a powerful DSL that serves as an alternative to YAML, TOML, INI, JSON, etc. This experiment attempts to evaluate HCL2 as a possible config language for Golang applications.
 
 ## Why HCL
 
